@@ -12,3 +12,12 @@ A simple application that geographically locates programmers near you, using tec
 </ul>
 
 <h3>Printscreens</h3>
+<p>Initial page</p>
+<img src="images/mobile1.jpg" />
+<p>Finding developers with the C programming language</p>
+<img src="images/mobile2.jpg" />
+<p>With a click on avatar, show us a small info about the user</p>
+<img src="images/mobile3.jpg" />
+<p>If we click on the info, it opens the user's profile</p>
+<img src="images/mobile4.jpg" />
+<p>This is the users register form</p>
