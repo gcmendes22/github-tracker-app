@@ -21,3 +21,4 @@ A simple application that geographically locates programmers near you, using tec
 <p>If we click on the info, it opens the user's profile</p>
 <img src="images/mobile4.jpg" />
 <p>This is the users register form</p>
+<img src="images/web.jpg" />
